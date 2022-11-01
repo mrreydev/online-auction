@@ -1,0 +1,63 @@
+@font-face {
+    font-family: "Poppins";
+    src: url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+
+* {
+    font-family: "Poppins";
+}
+.bg-login {
+    background: url(../images/web/money-img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-register {
+    background: url(../images/web/resize.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-beranda {
+    background: url(../images/web/banner-beranda.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.full-height {
+    min-height: 100vh;
+}
+
+.filter-dark {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.height-80 {
+    min-height: 80vh;
+}
+
+.height-60 {
+    min-height: 60vh;
+}
+
+.blue-underline {
+    border-bottom: solid 4px royalblue;
+    width: 48px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card-lelang {
+    min-height: 350px;
+    max-height: 350px;
+}
+
+.mt-min-50 {
+    margin-top: -50px;
+}
+
+.reds {
+    color: rgb(218, 40, 40);
+}
